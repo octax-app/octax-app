@@ -1,3 +1,12 @@
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=octax-app&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=octax-app&theme=radical&no-frame=true&margin-w=15)  
+
+
+
 # My Profile
 
 [![profile](images/profile.png)](https://octax.app/)
