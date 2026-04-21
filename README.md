@@ -32,7 +32,6 @@ I am currently rebuilding my portfolio and working on new projects. Stay tuned f
 ![2023 Contributions](images/2023-contributions.png)
 ![2024 Contributions](images/2024-contributions.png)
 ![2025 Contributions](images/2025-contributions.png)
-<img src="images/old-profile.png" alt="Old Profile" style="width:100%;"/>
 
 ## Public Repositories from @haitham-alabdullah
 
