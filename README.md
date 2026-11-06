@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://octax.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+      <img src="assets/banner-light.png" alt="Octax: a product studio crafting clean, elegant and efficient products" width="100%">
+    </picture>
+  </a>
+</p>
+
 <h1 align="center">Haitham Al-Abdullah</h1>
 
 <p align="center">
